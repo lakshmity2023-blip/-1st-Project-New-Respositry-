@@ -5,8 +5,8 @@ import AddEmployee from "./components/AddEmployee";
 export default  function App(){
   return(
     <React.Fragment>
-      <div className="container">
-        <p className="h1 text-center text-primary">App Component</p>
+      <div className="container mr-5">
+        <p className="h1 text-center text-primary">App Component lakshmi</p>
         <AddEmployee/>        
       </div>
 
